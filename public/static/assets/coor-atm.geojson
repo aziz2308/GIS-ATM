@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "coor-atm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "ATM BCA Cabang Kampung Utan", "X": 106.751587, "Y": -6.302547 }, "geometry": { "type": "Point", "coordinates": [ 106.751587, -6.302547 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BNI Cabang Kampung Utan", "X": 106.75133, "Y": -6.301402 }, "geometry": { "type": "Point", "coordinates": [ 106.75133, -6.301402 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BCA Cabang WR Supratman", "X": 106.753418, "Y": -6.303602 }, "geometry": { "type": "Point", "coordinates": [ 106.753418, -6.303602 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM CIMB Niaga Cabang WR Supratman", "X": 106.755647, "Y": -6.30417 }, "geometry": { "type": "Point", "coordinates": [ 106.755647, -6.30417 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BNI Cabang WR Supratman", "X": 106.756753, "Y": -6.304648 }, "geometry": { "type": "Point", "coordinates": [ 106.756753, -6.304648 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM Permata Cabang IR Juanda", "X": 106.757773, "Y": -6.305365 }, "geometry": { "type": "Point", "coordinates": [ 106.757773, -6.305365 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BSI Cabang IR Juanda", "X": 106.75797, "Y": -6.305235 }, "geometry": { "type": "Point", "coordinates": [ 106.75797, -6.305235 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BCA Cabang IR Juanda", "X": 106.758065, "Y": -6.305088 }, "geometry": { "type": "Point", "coordinates": [ 106.758065, -6.305088 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BPR Cabang IR Juanda", "X": 106.758342, "Y": -6.304767 }, "geometry": { "type": "Point", "coordinates": [ 106.758342, -6.304767 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BRI Cabang IR Juanda", "X": 106.759068, "Y": -6.303942 }, "geometry": { "type": "Point", "coordinates": [ 106.759068, -6.303942 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BRI Cabang UIN Jakarta", "X": 106.756228, "Y": -6.30778 }, "geometry": { "type": "Point", "coordinates": [ 106.756228, -6.30778 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BNI Cabang UIN Jakarta", "X": 106.756178, "Y": -6.307993 }, "geometry": { "type": "Point", "coordinates": [ 106.756178, -6.307993 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BTN Cabang UIN Jakarta", "X": 106.756118, "Y": -6.30861 }, "geometry": { "type": "Point", "coordinates": [ 106.756118, -6.30861 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM Mandiri Cabang Tangerang", "X": 106.75457, "Y": -6.311153 }, "geometry": { "type": "Point", "coordinates": [ 106.75457, -6.311153 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BNI Cabang Ruko Juanda", "X": 106.753688, "Y": -6.311978 }, "geometry": { "type": "Point", "coordinates": [ 106.753688, -6.311978 ] } },
+{ "type": "Feature", "properties": { "Nama": "ATM BCA Cabang Juanda", "X": 106.752758, "Y": -6.312218 }, "geometry": { "type": "Point", "coordinates": [ 106.752758, -6.312218 ] } }
+]
+}
