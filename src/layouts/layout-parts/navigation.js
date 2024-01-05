@@ -20,4 +20,9 @@ export const navigations = [
     path: "/about",
     icon: duotone.CommentsQuestionCheck,
   },
+  {
+    name: "News",
+    path: "/news",
+    icon: duotone.Pages,
+  },
 ];

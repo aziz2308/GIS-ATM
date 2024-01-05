@@ -16,6 +16,7 @@ const Home = Loadable(lazy(() => import("./pages/home")));
 const Map = Loadable(lazy(() => import("./pages/map")));
 const About = Loadable(lazy(() => import("./pages/about")));
 const Contact = Loadable(lazy(() => import("./pages/contact")));
+const News = Loadable(lazy(() => import("./pages/news")));
 
 const ActiveLayout = () => {
   const { settings } = useSettings();
@@ -59,6 +60,10 @@ const dashboardRoutes = [
   {
     path: "contact",
     element: <Contact />,
+  },
+  {
+    path: "news",
+    element: <News />,
   },
 ];
 export default routes;
